@@ -1,0 +1,13 @@
+
+.content {
+  grid-area: c;
+  background-color: coral;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.content img {
+  width: 100%;
+  height: 150px;
+}
+

@@ -1,0 +1,32 @@
+.nav {
+  grid-area: n;
+  background-color: coral;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.item {
+  color: white;
+  margin: 20px auto;
+  border-radius: 67px;
+  width: 80%;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.item a.activeLink {
+  color: gold;
+}
+
+.item a {
+  color: white;
+}
+
+.item:hover {
+  background-color: bisque;
+  transition: 150ms;
+  font-weight: bold;
+}
+
+

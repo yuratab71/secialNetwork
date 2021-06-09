@@ -1,0 +1,8 @@
+.dialog a {
+    color: white;
+}
+
+.dialog .active {
+    color: gold;
+
+}
